@@ -2,8 +2,9 @@
 
 My name is Matías, I'm a Junior Full Stack Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+Spanish is my mother languaje, but i can speak English as well
+
+- 🌱 I’m currently learning AI adn Unity.
 <!--
 **Kumati63/Kumati63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
