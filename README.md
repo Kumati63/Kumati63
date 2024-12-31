@@ -8,7 +8,6 @@ Spanish is my mother language, but I can also speak English fluently.
 - 💬 The website showcases my projects, skills, and experience as a Full Stack Developer. (Currently under construction)"
 - 📫 Feel free to reach out via [Email](mailto:matiasarayao625@gmail.com) or through [LinkedIn](https://www.linkedin.com/in/matias-araya-olivares/)
 
-## Thank you for visiting my profile! 😊
 <!--
 **Kumati63/Kumati63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
