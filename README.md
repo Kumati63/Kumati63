@@ -2,7 +2,7 @@
 
 My name is Matías, I'm a Junior Full Stack Developer from Chile.
 
-Spanish is my mother language, but i can speak English as well
+Spanish is my mother language, but I can speak English as well
 
 - 🔭 You can see more about me in my portfolio [website]( https://kumati63.github.io/) (working on it)
 <!--
