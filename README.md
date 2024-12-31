@@ -6,7 +6,7 @@ Spanish is my mother language, but I can also speak English fluently.
 
 - 🔭 You can check out my portfolio [HERE]( https://kumati63.github.io/). (working on it)
 - 💬 The website showcases my projects, skills, and experience as a Full Stack Developer. (Currently under construction)"
-- 📫 Feel free to reach out via email or through [LinkedIn](in/matias-araya-olivares).
+- 📫 Feel free to reach out via [Email](mailto:matiasarayao625@gmail.com) or through [LinkedIn](https://www.linkedin.com/in/matias-araya-olivares/)
 
 ## Thank you for visiting my profile! 😊
 <!--
