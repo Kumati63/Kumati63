@@ -4,7 +4,7 @@ My name is Matías, I'm a Junior Full Stack Developer.
 
 Spanish is my mother languaje, but i can speak English as well
 
-- 🌱 I’m currently learning AI and Unity.
+- 🔭 You can see more about me in my presentation [website]( https://kumati63.github.io/) (working on it)
 <!--
 **Kumati63/Kumati63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
