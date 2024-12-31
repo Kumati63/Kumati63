@@ -4,7 +4,9 @@ My name is Matías, I'm a Junior Full Stack Developer from Chile.
 
 Spanish is my mother language, but I can speak English as well
 
-- 🔭 You can see more about me in my portfolio [website]( https://kumati63.github.io/) (working on it)
+- 🔭 You can check out my portfolio [HERE]( https://kumati63.github.io/). (working on it)
+- 💬 The website showcases my projects, skills, and experience as a Full Stack Developer. (Currently under construction)"
+- 📫 How to reach me: Your [] or through LinkedIn.
 <!--
 **Kumati63/Kumati63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
