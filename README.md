@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-My name is Matías, I'm a Junior Full Stack Developer from Chile.
+My name is Matías, and I am a Junior Full Stack Developer from Chile.
 
-Spanish is my mother language, but I can speak English as well
+Spanish is my mother language, but I can also speak English fluently.
 
 - 🔭 You can check out my portfolio [HERE]( https://kumati63.github.io/). (working on it)
 - 💬 The website showcases my projects, skills, and experience as a Full Stack Developer. (Currently under construction)"
-- 📫 How to reach me: Your [] or through LinkedIn.
+- 📫 Feel free to reach out via email or through [LinkedIn](in/matias-araya-olivares).
+
+## Thank you for visiting my profile! 😊
 <!--
 **Kumati63/Kumati63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
