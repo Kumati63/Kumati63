@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Matías, I'm a Junior Full Stack Developer.
+My name is Matías, I'm a Junior Full Stack Developer from Chile.
 
 Spanish is my mother languaje, but i can speak English as well
 
